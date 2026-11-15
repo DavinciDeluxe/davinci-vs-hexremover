@@ -4,7 +4,7 @@
 [![Guide .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/davinci-vs-hexremover)
 [![Guide .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/davinci-vs-hexremover)
 
-**HexRemover** operates as a **legacy offline switch tool with limited outdated ECU coverage**. **DaVinci Deluxe Cloud Edition (v1.0.45)** automates verified byte-exact solutions across **5,150+ Cars ECUs, 452+ Heavy-Duty Truck ECUs & 30+ Marine Boat brands** on Windows, macOS, Linux, Android, iPad, iPhone & Web Cloud — plus **347 DAMOS/A2L/ORI packs** at [davincideluxe.fr/shop](https://www.davincideluxe.fr/shop).
+**HexRemover** operates as a **legacy offline switch tool with limited outdated ECU coverage**. **DaVinci Deluxe Cloud Edition (v1.0.45)** automates verified byte-exact solutions across **5,150+ Cars ECUs, 452+ Heavy-Duty Truck ECUs & 30+ Marine Boat brands** on Windows, macOS, Linux, Android, iPad, iPhone & Web Cloud — plus **395 DAMOS/A2L/ORI packs** at [davincideluxe.fr/shop](https://www.davincideluxe.fr/shop).
 
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.45) | HexRemover |
 | :--- | :--- | :--- |
